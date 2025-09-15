@@ -1,2 +1,2 @@
-omadus1
+omadus2
 
